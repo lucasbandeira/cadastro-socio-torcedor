@@ -58,3 +58,9 @@ Segue a baixo o cenário de criação do mesmo [imagem do cenário](https://driv
 [image da remoção de um sócio toredor](https://drive.google.com/file/d/1I8_2iJ075LwRXLHO8d8QPgLYtIvusoyf/view?usp=sharing)
 
 
+# Tecnologias e frameworks
+- Java 8
+- Spring Boot
+- Postgres
+- TomCat 9.0.21
+- Rest Assured - Ferramenta BDD para teste de dos end-points
